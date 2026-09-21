@@ -1,7 +1,5 @@
 package strategy;
 
-import java.util.Arrays;
-
 public class FCFSStrategy implements SeekStrategy{
 
     @Override
